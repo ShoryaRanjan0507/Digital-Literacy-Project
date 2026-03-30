@@ -1,0 +1,10 @@
+The Stay Safe Online Checklist:
+
+1.	Secure Your UPI Transactions: Never enter your UPI PIN while receiving money. A PIN is only required for sending money or checking your balance. If someone asks you to enter a PIN to claim a prize or receive a refund, it is a scam.
+2.	Verify QR Codes: Before scanning a QR code in a public place or sent via WhatsApp, verify the recipient's name carefully. Scammers often paste fake QR codes over legitimate ones at shops or stalls.
+3.	Enable Two-Factor Authentication (2FA): Activate 2FA on your university email, WhatsApp, and Instagram accounts. Use an authenticator app rather than just SMS to prevent SIM swapping attacks.
+4.	Audit App Permissions: Regularly check your phone settings to see which apps have access to your microphone, camera, and contacts. Deny access to any app that doesn't strictly need it to function.
+5.	Use a Separate Email for Finances: Use one email address for your college work and social media, and a completely different, hidden email address for your bank accounts and investment apps.
+6.	Avoid Public Wi-Fi for Sensitive Tasks: Never log into your student portal or bank account using free public Wi-Fi (like at railway stations or cafes). Use your mobile data or a trusted VPN if necessary.
+7.	Check for "HTTPS": Before entering any personal details or passwords on a website, ensure the URL starts with https:// and has a padlock icon. This is especially important when checking exam results or filling out scholarship forms.
+8.	Be Sceptical of "Urgent" Messages: If you receive a message on WhatsApp or Telegram claiming your electricity will be cut off or your SIM card will be blocked, do not click the link. Contact the official customer care number found on the provider's actual website.
