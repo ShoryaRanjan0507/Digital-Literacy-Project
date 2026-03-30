@@ -8,3 +8,9 @@ The Stay Safe Online Checklist:
 6.	Avoid Public Wi-Fi for Sensitive Tasks: Never log into your student portal or bank account using free public Wi-Fi (like at railway stations or cafes). Use your mobile data or a trusted VPN if necessary.
 7.	Check for "HTTPS": Before entering any personal details or passwords on a website, ensure the URL starts with https:// and has a padlock icon. This is especially important when checking exam results or filling out scholarship forms.
 8.	Be Sceptical of "Urgent" Messages: If you receive a message on WhatsApp or Telegram claiming your electricity will be cut off or your SIM card will be blocked, do not click the link. Contact the official customer care number found on the provider's actual website.
+
+How to report a Cybercrime:
+
+If you or a peer fall victim to a digital scam, speed is critical,
+Immediate Action: Call the National Cyber Crime Helpline at 1930 instantly to freeze fraudulent transactions or report the website.
+Official Filing: Log your complaint at the National Cyber Crime Reporting Portal: cybercrime.gov.in.
